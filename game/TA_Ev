@@ -1,7 +1,7 @@
 {
   "LVEv01": {
     "EventName": "[🚆] Lagtrain",
-	  "Description": "Oh, not again, now the train’s gone and left.",
+    "Description": "Oh, not again, now the train’s gone and left.",
     "GamemodeVL": false,
 	--Config
     "CountdownDate01": {
