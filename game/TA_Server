@@ -1,0 +1,12 @@
+{
+--Server Configuration
+  "TAMaintenance": {
+    "TextVL": false,
+    "ReasonText": "Test",
+    "IsOffline": false
+  },
+  
+    "test1": {
+    "vl01": false
+  },
+}
