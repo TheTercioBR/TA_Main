@@ -1,7 +1,7 @@
 {
   "LVEv01": {
-    "EventName": "[🚆] Lagtrain",
-    "Description": "Oh, not again, now the train’s gone and left.",
+    "EventName": "Dev_Test_Name",
+    "Description": "Basil Basil Basil",
     "GamemodeVL": false,
 	--Config
     "CountdownDate01": {
@@ -16,6 +16,8 @@
 
 "LVEv02": {
   "EventName": "[🎂] Birthday",
+  "Description": "Basil 2 Basil 2 Basil 2",
+  "GamemodeVL": false,
 }
   
 }
