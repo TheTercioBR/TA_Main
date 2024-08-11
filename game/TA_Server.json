@@ -1,5 +1,4 @@
 {
---Server Configuration
   "TAMaintenance": {
     "TextVL": false,
     "ReasonText": "Test",
