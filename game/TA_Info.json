@@ -1,4 +1,13 @@
 {
+
+  "TA_Uptades": {
+    "NewMap": {
+      "Description": "Who ready for the world?",
+      "TitleColor": "(255, 205, 0)",
+      "Img": "no"
+    }
+  },
+  
   "TA_Info_Codes": {
     "Flower",
     "Reboot"
