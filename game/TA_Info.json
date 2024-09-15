@@ -11,6 +11,6 @@
   "TA_StatusInfo": {
     "IsMaintenance": false,
     "Type": "normal",
-    "StartTime": 000000
+    "StartTime": 00000000,
   }
 }
