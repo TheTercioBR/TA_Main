@@ -1,12 +1,3 @@
 {
-  "TA_Info_Codes": 
-    "Flower",
-    "Reboot"
-  },
-
-  "TA_StatusInfo": {
-    "IsMaintenance": false,
-    "Type": "normal",
-    "StartTime": 123456789101,
-  }
+  
 }
