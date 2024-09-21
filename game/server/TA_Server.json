@@ -4,8 +4,9 @@
     "ReasonText": "Test",
     "IsOffline": false
   },
-  
-    "test1": {
-    "vl01": false
-  },
+
+  "ServerLock": {
+    "IsLock": false,
+    "Message": "Sorry, Test Avatar has closed its servers for live event. Try watching it live on a social network."
+  }
 }
