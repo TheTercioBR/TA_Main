@@ -5,9 +5,11 @@
     "IsOffline": false
   },
 
-  "Bonus": {
-    "Date": 123455678,
-    "About": "Bonus Day"
+  "TABonusDay": {
+    "IsBonus": false,
+    "StartTime": 123456789101,
+    "EndTime": 123456789101,
+    "Text": "Enjoy this day when all Coins and Gems are being doubled."
   },
 
   "ServerLock": {
