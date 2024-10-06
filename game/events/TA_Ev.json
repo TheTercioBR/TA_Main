@@ -12,6 +12,11 @@
       "minutes": 0,
       "seconds": 0
     },
+
+    "Explosions": {
+      "Exp01_Start": 1729784499,
+      "Exp02_Start": 1729870899
+    },
   },
 
 "LVEv02": {
