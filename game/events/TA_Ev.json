@@ -4,7 +4,7 @@
     "Description": "How will you see this event if my computer won't let me finish it?",
     "GamemodeVL": false,
 
-    "CountdownDate01": {
+    "CountdownDate": {
       "year": 2024,
       "month": 10,
       "day": 28,
