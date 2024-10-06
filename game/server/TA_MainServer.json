@@ -5,6 +5,11 @@
     "IsOffline": false
   },
 
+  "Bonus": {
+    "Date": 123455678,
+    "About": "Bonus Day"
+  },
+
   "ServerLock": {
     "IsLock": false,
     "Message": "Sorry, Test Avatar has closed its servers for live event. Try watching it live on a social network."
