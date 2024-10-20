@@ -1,0 +1,17 @@
+{
+    "Transmissions":{
+        "COSS_TA":{
+            "Number": "",
+            "IsOn": false,
+            "StartTime": 0,
+            "Status": "Message_Call01"
+        },
+
+        "Lofi_TA":{
+            "Number": 154,
+            "IsOn": true,
+            "StartTime": 0,
+            "Status": "Radio_Playlist_Halloween"
+        }
+    }
+}
