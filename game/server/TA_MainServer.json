@@ -1,7 +1,7 @@
 {
   "TAMaintenance": {
-    "TextVL": false,
-    "ReasonText": "Test",
+    "TextValue": false,
+    "Message": "Test",
     "IsOffline": false
   },
 
@@ -9,7 +9,7 @@
     "IsBonus": false,
     "StartTime": 123456789101,
     "EndTime": 123456789101,
-    "Text": "Enjoy this day when all Coins and Gems are being doubled."
+    "Message": "Enjoy this day when all Coins and Gems are being doubled."
   },
 
   "ServerLock": {
