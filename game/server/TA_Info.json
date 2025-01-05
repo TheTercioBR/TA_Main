@@ -1,21 +1,20 @@
 {
+    "TA_Uptades": {
+        "New Map": {
+            "TitleColor": "255, 205, 0",
+            "Description": "Who ready for the world?",
+            "Image": "0"
+        }
+    },
+    
+    "TA_StatusInfo": {
+        "Status": false,
+        "Type": "normal",
+        "StartTime": 123456789101
+    },
 
-  "TA_Uptades": {
-    "NewMap": {
-      "TitleColor": "255, 205, 0",
-      "Description": "Who ready for the world?",
-      "Img": "no"
+    "TA_Info_Codes": {
+        "Flower": true,
+        "Reboot": true
     }
-  },
-  
-  "TA_Info_Codes": {
-    "Flower",
-    "Reboot"
-  },
-
-  "TA_StatusInfo": {
-    "IsStatus": false,
-    "Type": "normal",
-    "StartTime": 123456789101,
-  }
 }
