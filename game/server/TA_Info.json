@@ -6,11 +6,11 @@
             "Image": "0"
         },
 
-        "UptadeValue_02": {
-            "UptadeTitle": "New UI",
-            "Description": "test desc",
-            "Image": "0"
-        }
+    "UptadeValue_02": {
+        "UptadeTitle": "New UI",
+           "Description": "test desc",
+           "Image": "0"
+       }
     },
     
     "TA_StatusInfo": {
