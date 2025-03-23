@@ -4,6 +4,12 @@
             "UptadeTitle": "New World!",
             "Description": "Who ready for the world?",
             "Image": "0"
+        },
+
+        "UptadeValue_02": {
+            "UptadeTitle": "New UI",
+            "Description": "test desc",
+            "Image": "0"
         }
     },
     
