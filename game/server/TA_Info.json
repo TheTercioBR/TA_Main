@@ -14,7 +14,7 @@
     },
 
     "TA_Info_Codes": {
-        "Flower": true,
-        "Reboot": true
+        "code1": "lol1",
+        "code2": "lol2"
     }
 }
