@@ -1,7 +1,8 @@
 {
     "TA_Uptades": {
-        "New Map": {
-            "TitleColor": "255, 205, 0",
+        "Name01": {
+            "Title": "New World!"
+            "TitleColor": Color3.fromRGB(255, 255, 255),
             "Description": "Who ready for the world?",
             "Image": "0"
         }
