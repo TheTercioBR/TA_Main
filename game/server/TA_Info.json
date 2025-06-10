@@ -26,7 +26,8 @@
     },
 
     "TA_Info_Codes": {
-        "code1": "Flowers",
-        "code2": "HelloAgain"
+        "code1": "NewVisits",
+        "code2": "HappyBirthday!!",
+        "code3": "OMORI"
     }
 }
