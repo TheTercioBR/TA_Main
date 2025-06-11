@@ -21,7 +21,7 @@
     
     "TA_StatusInfo": {
         "Status": true,
-        "Type": "normal",
+        "Type": "urgent",
         "StartTime": 123456789101
     },
 
